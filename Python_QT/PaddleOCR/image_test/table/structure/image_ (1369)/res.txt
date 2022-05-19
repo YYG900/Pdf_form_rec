@@ -1,0 +1,12 @@
+[75.0, 286.0, 521.0, 286.0, 521.0, 298.0, 75.0, 298.0]	('onsistedof95%methanol/5%water/10mMammoniumacetateinchannelAand95%water/5%', 0.9958489)
+[75.0, 302.0, 519.0, 302.0, 519.0, 311.0, 75.0, 311.0]	('nethanol/10mMammonium acetate in channelBata constant flowrate of o.2m/min.The HPL', 0.9496903)
+[74.0, 317.0, 519.0, 317.0, 519.0, 329.0, 74.0, 329.0]	('was programmedtohold95%channelBfor2minutes followedbyalineardecrease to50%channe', 0.98291415)
+[75.0, 333.0, 518.0, 333.0, 518.0, 342.0, 75.0, 342.0]	('over.5minutes.thenheldat 50%for8minutesbeforereturnine.to95%witharuntimec', 0.9709506)
+[77.0, 388.0, 520.0, 388.0, 520.0, 400.0, 77.0, 400.0]	('esolvation and source temperatures were set at350C and120C inpositive mode and400 Cano', 0.9635557)
+[75.0, 404.0, 520.0, 404.0, 520.0, 416.0, 75.0, 416.0]	('20Crespectivelyinnegativemode.Nitrogenwasemployedasthe desolvationand cone gaswith', 0.9922889)
+[75.0, 214.0, 490.0, 214.0, 490.0, 226.0, 75.0, 226.0]	('JltimaPlatinumtriplequadrupole massspectrometeroperatinginbothpositiveand negative', 0.99108636)
+[73.0, 229.0, 486.0, 227.0, 486.0, 240.0, 73.0, 242.0]	('electrospray ionisation（ESimodes.TheHPLC-MS/MSsystemwascontrolled by Masslynx', 0.9687725)
+[478.0, 175.0, 502.0, 175.0, 502.0, 181.0, 478.0, 181.0]	('adcer', 0.61353683)
+['<']	h
+[75.0, 464.0, 191.0, 464.0, 191.0, 470.0, 75.0, 470.0]	('Qns.montoreain-emo', 0.8137766)
+[75.0, 79.0, 480.0, 79.0, 480.0, 85.0, 75.0, 85.0]	('uooementarymatenalDetalemethodforartgalseetenersaogEaielnedetection', 0.78527486)
