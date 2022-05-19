@@ -14,4 +14,4 @@
 
     PPOCR开源地址：https://github.com/PaddlePaddle/PaddleOCR
 
-本文基于CUDA10.2的PaddlePaddle环境，在i5-8300H和GTX 1060(6G) MAX-Q机器上进行训练和测试。
+本项目基于CUDA10.2的PaddlePaddle环境，在i5-8300H和GTX 1060(6G) MAX-Q机器上进行训练和测试。
