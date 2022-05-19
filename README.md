@@ -4,14 +4,14 @@
 
 使用PPOCR需要先安装PaddlePaddle框架，同时需要安装环境中有相应版本的CUDA与cuDNN，本文采用的方法是包含CUDA与cuDNN的Anaconda中安装PaddlePaddle环境。
 
-Anaconda下载地址：https://www.anaconda.com/products/distribution#Downloads
+    Anaconda下载地址：https://www.anaconda.com/products/distribution#Downloads
 
 安装好Anaconda后，打开Anaconda的终端，在终端中输入如下命令安装PaddlePaddle环境。
 
-python -m pip install paddlepaddle-gpu==2.2.2 -i https://mirror.baidu.com/pypi/simple
+    python -m pip install paddlepaddle-gpu==2.2.2 -i https://mirror.baidu.com/pypi/simple
 
 最后下载PPOCR源代码
 
-PPOCR开源地址：https://github.com/PaddlePaddle/PaddleOCR
+    PPOCR开源地址：https://github.com/PaddlePaddle/PaddleOCR
 
 本文基于CUDA10.2的PaddlePaddle环境，在i5-8300H和GTX 1060(6G) MAX-Q机器上进行训练和测试。
